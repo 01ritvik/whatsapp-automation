@@ -1,6 +1,6 @@
 import mysql.connector
 
-my_db = mysql.connector.connect(host = '119.18.55.154',user = 'shashik' , passwd = 'shashikpass' , database = 'shashi_db')
+my_db = mysql.connector.connect(host = '****',user = '***' , passwd = '*****8' , database = '***8')
 
 print(my_db)
 
