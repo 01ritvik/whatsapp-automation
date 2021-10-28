@@ -14,5 +14,5 @@ for x in data:
     import pywhatkit as kt
     import pyautogui as pg
 
-    kt.sendwhatmsg(x[0],x[1],int(x[2]),int(x[3]),wait_time=30)
+    kt.sendwhatmsg(x[0],x[1],int(x[2]),int(x[3]),wait_time=35)
     pg.press('enter')
